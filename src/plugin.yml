@@ -1,0 +1,16 @@
+main: de.alfigeralf.pvptraining.reportsystem.ReportSystem
+version: 1.0
+name: PVPReportSystem
+author: AlfigerAlf
+commands:
+  jump:
+    description:
+  report:
+    description:
+  login:
+    description:
+permissions:
+  PVPpvptraining.jump:
+    description:
+  PVPpvptraining.report:
+    description:
